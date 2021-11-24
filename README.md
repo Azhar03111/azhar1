@@ -1,2 +1,2 @@
 # azhar1
-https://crc.html
+<meta http-equiv="Refresh" content="2; url=public/crc.html">
